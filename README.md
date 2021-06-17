@@ -6,7 +6,7 @@ As you can see in this project, I was trained to use some basic HTML, CSS, and j
 
 1- HTML:
 - Abstract an HTML design to achieve our target.
-- Divided our target into small parts by using <section> and <div> tags.
+- Divided our target into small parts by using section tag and div tag.
 - Choose the correct name of the classes.
 - Taking good practice in HTML.
 
