@@ -32,3 +32,22 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.toggle {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background-image: url("/images/menu.png");
+  background-repeat: no-repeat;
+  background-size: 120px;
+  background-position: center;
+  cursor: pointer;
+}
+
+.toggle.active {
+  background-image: url("/images/close.png");
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: center;
+  cursor: pointer;
+}
